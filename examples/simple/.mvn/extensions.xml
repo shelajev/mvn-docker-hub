@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensions>
+  <extension>
+    <groupId>io.mvndockerhub</groupId>
+    <artifactId>mvn-docker-hub-resolver</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+  </extension>
+</extensions>
